@@ -1,10 +1,4 @@
 
-## Brief Problem Statement:
-To develop a web platform for ScrapShut where users can come and rate
-different URLs and get reviews of other users on a particular URL. This
-web app aims to provide users with data on the credibility of the content
-provided by various websites, to curb fake news perpetration.
-
 ## Project Overview:
 We predict the genuineness of a website based on the majority of user
 ratings, and ML model trained using features like website’s scraped data,
