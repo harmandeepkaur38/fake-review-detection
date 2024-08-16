@@ -1,9 +1,3 @@
-# Scrapshut Project
-Work for Scrapshut which was part of Design and Analysis of Software Systems Course at IIIT Hyderabad.
-
-Client : Mounikesh Thadda, Founder of [Scrapshut](https://scrapshut.com/) <br>
-Mentor TA : Mohit Chandra <br>
-
 
 ## Brief Problem Statement:
 To develop a web platform for ScrapShut where users can come and rate
